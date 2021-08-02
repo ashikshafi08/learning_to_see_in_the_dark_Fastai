@@ -21,8 +21,8 @@ We've deployed the app on streamlit which is trained on learning to see in dark 
 The code for replicating this experiment can be found in [`notebooks`](https://github.com/KliKli2/litd/tree/main/notebooks) folder 
 
 ## ```Dataset used``` 
-[Sony camera raw dataset](https://storage.googleapis.com/isl-datasets/SID/Sony.zip)
-[Sony camera jpg dataset](https://drive.google.com/drive/folders/1z5f1XM7M8WpjL4GFKIwXpFj2sekxtncq?usp=sharing)
+- [Sony camera raw dataset](https://storage.googleapis.com/isl-datasets/SID/Sony.zip)
+- [Sony camera jpg dataset](https://drive.google.com/drive/folders/1z5f1XM7M8WpjL4GFKIwXpFj2sekxtncq?usp=sharing)
 
 
 ## ```Original paper link```
