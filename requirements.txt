@@ -1,0 +1,5 @@
+streamlit 
+fastai
+fastbook
+Pillow==8.2.0
+gdown 
