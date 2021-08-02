@@ -34,4 +34,3 @@ The code for replicating this experiment can be found in [`notebooks`](https://g
 - [Max](https://www.linkedin.com/in/maximilian-von-hohenb%C3%BChel-40057119b/)
 - [Myself](https://www.linkedin.com/in/ashik-shaffi-7b3917171/)
 
-jpg dataset will be added soon..
