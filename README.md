@@ -3,7 +3,7 @@ This was a project by me and my teammates where we decided to use Fastai and imp
 - We didnt had much computing power (only Google Colab)
 - And we didn't have the storage to store the dataset. 
 
-The model we built with `jpg` didn't produce the paper's actual results, but we are still working on fixing the pixel issues related to the predicted image. Special thanks to the authors of the paper, team of fastai and Zach Mueller for walk with fastai. 
+The model we built with `jpg` didn't produce the paper's actual results, but we are still working on fixing the pixel issues related to the predicted image. Special thanks to the authors of the paper, team of fastai and Zach Mueller for walk with fastai. This dataset is converted to `jpg` images and then trained using **Unet** with the backbone of `resnet34` architecture.
 
 **[The app is live on streamlit](https://share.streamlit.io/someshfengde/learning_to_see_in_dark/main/app.py)**
 
@@ -22,7 +22,8 @@ The code for replicating this experiment can be found in [`notebooks`](https://g
 
 ## ```Dataset used``` 
 [Sony camera raw dataset](https://storage.googleapis.com/isl-datasets/SID/Sony.zip)
-this dataset is converted to `jpg` images and then trained with the backbone of `resnet34` architecture 
+[Sony camera jpg dataset](https://drive.google.com/drive/folders/1z5f1XM7M8WpjL4GFKIwXpFj2sekxtncq?usp=sharing)
+
 
 ## ```Original paper link```
  [arXiv:1805.01934](https://arxiv.org/abs/1805.01934) `[cs.CV]`
