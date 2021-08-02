@@ -1,5 +1,9 @@
-# ```Introduction```
-Converting night time images to day time images.
+# ```Learning to see in the dark with Fastai```
+This was a project by me and my teammates where we decided to use Fastai and implemented the paper learning to see in the dark. Rather using the `RAW` image format we converted it to `jpg`because of two things: 
+- We didnt had much computing power (only Google Colab)
+- And we didn't have the storage to store the dataset. 
+
+The model we built with `jpg` didn't produce the paper's actual results, but we are still working on fixing the pixel issues related to the predicted image. Special thanks to the authors of the paper, team of fastai and Zach Mueller for walk with fastai. 
 
 # ```Run```
 To run this app on a local streamlit app:
